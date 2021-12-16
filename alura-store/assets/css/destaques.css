@@ -11,7 +11,7 @@
     /* grid-gap: .6rem; */
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 30% 30% 30%;
-    height: calc(80vh - 100px);
+    height: calc(60vh - 50px);
 }
 
 .destaques__titulo {
